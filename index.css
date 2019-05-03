@@ -14,7 +14,9 @@
 }
 .swiper-slide.balance-plan{
     background: linear-gradient(90deg,#ec6534,#f19e44);
+    /* 默认字体黑色，调至白色 */
     color: #ffffff;
+
 }
 @font-face {
     font-family: 'iconfont';  /* project id 1096448 */
